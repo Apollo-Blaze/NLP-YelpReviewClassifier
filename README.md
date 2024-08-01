@@ -1,4 +1,4 @@
-# ⭐YelpReviewClassifier
+# ⭐Yelp Review Classifier
 
 ## Description
 This project classifies Yelp reviews into 1-star or 5-star categories based on the text content. It uses the Yelp Review Data Set from Kaggle and employs natural language processing techniques[^2^][2].
